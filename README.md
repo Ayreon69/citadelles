@@ -2,7 +2,7 @@
 
 **Un personnage secret à chaque tour. Bâtis la plus belle cité, et méfie-toi de l'Assassin.**
 
-👉 **Jouer : adresse à venir** (la première ouverture peut prendre jusqu'à une minute, le temps que le serveur gratuit se réveille)
+👉 **Jouer : https://citadelles-59hy.onrender.com** (la première ouverture peut prendre jusqu'à une minute, le temps que le serveur gratuit se réveille)
 
 Jeu de cartes multijoueur en ligne, à jouer entre amis depuis un navigateur, sur téléphone ou ordinateur, sans compte ni installation.
 D'après *Citadelles*, le jeu de Bruno Faidutti (création de fans, non officielle, avec ses propres visuels en vitrail).
