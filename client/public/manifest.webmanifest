@@ -1,0 +1,11 @@
+{
+  "name": "Citadelles",
+  "short_name": "Citadelles",
+  "description": "Un personnage secret à chaque tour, une cité à bâtir.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#120e18",
+  "theme_color": "#120e18",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
